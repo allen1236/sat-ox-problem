@@ -1,4 +1,4 @@
-# Solve OX Problem with SAT Solver
+# Solve OX Arrangement Problem with SAT Solver
 ## Compile
 To compile the executable `satTest`, run `make` in the directory `sat`
 
