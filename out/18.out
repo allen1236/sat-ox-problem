@@ -1,0 +1,36 @@
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|         0 |  268176   569322 |       0        0    -nan |  0.000 % |
+======================================================================
+SAT
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|    543648 |  203645   434383 |  159001 18489467   116.3 | 16.908 % |
+======================================================================
+
+
+initial  	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxo
+01 --> 36	x  oxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+24 --> 01	xxooxoxoxoxoxoxoxoxoxoxo  xoxoxoxoxoox
+05 --> 24	xxoox  oxoxoxoxoxoxoxoxooxxoxoxoxoxoox
+28 --> 05	xxooxxooxoxoxoxoxoxoxoxooxxo  xoxoxoox
+09 --> 28	xxooxxoox  oxoxoxoxoxoxooxxooxxoxoxoox
+16 --> 09	xxooxxooxxooxoxo  xoxoxooxxooxxoxoxoox
+31 --> 16	xxooxxooxxooxoxooxxoxoxooxxooxx  oxoox
+12 --> 31	xxooxxooxxoo  xooxxoxoxooxxooxxxooxoox
+21 --> 12	xxooxxooxxoooxxooxxox  ooxxooxxxooxoox
+08 --> 21	xxooxxoo  oooxxooxxoxxxooxxooxxxooxoox
+23 --> 08	xxooxxoooooooxxooxxoxxx  xxooxxxooxoox
+04 --> 23	xxoo  oooooooxxooxxoxxxxxxxooxxxooxoox
+32 --> 04	xxoooooooooooxxooxxoxxxxxxxooxxx  xoox
+13 --> 32	xxooooooooooo  ooxxoxxxxxxxooxxxxxxoox
+27 --> 13	xxoooooooooooooooxxoxxxxxxx  xxxxxxoox
+17 --> 27	xxooooooooooooooo  oxxxxxxxxxxxxxxxoox
+35 --> 17	xxooooooooooooooooooxxxxxxxxxxxxxxx  x
+00 --> 35	  ooooooooooooooooooxxxxxxxxxxxxxxxxxx
+
+======================

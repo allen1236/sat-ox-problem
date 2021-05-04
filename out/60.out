@@ -1,0 +1,78 @@
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|         0 | 26969475 54326085 |       0        0    -nan |  0.000 % |
+======================================================================
+SAT
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|     95272 | 22732164 45711726 |   94676  6624021    70.0 | 21.666 % |
+======================================================================
+
+
+initial  	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxo
+13 --> 120	xoxoxoxoxoxox  oxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+30 --> 13	xoxoxoxoxoxoxxooxoxoxoxoxoxoxo  xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+87 --> 30	xoxoxoxoxoxoxxooxoxoxoxoxoxoxooxxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxox  oxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+04 --> 87	xoxo  xoxoxoxxooxoxoxoxoxoxoxooxxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+17 --> 04	xoxooxxoxoxoxxoox  oxoxoxoxoxooxxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+08 --> 17	xoxooxxo  xoxxooxxooxoxoxoxoxooxxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+35 --> 08	xoxooxxooxxoxxooxxooxoxoxoxoxooxxox  oxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+80 --> 35	xoxooxxooxxoxxooxxooxoxoxoxoxooxxoxxooxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxo  xoxoxxooxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+103 --> 80	xoxooxxooxxoxxooxxooxoxoxoxoxooxxoxxooxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxooxxoxoxxooxoxoxoxoxoxox  oxoxoxoxoxoxoxoox
+50 --> 103	xoxooxxooxxoxxooxxooxoxoxoxoxooxxoxxooxoxoxoxoxoxo  xoxoxoxoxoxoxoxoxoxoxoxoxoxooxxoxoxxooxoxoxoxoxoxoxxooxoxoxoxoxoxoxoox
+111 --> 50	xoxooxxooxxoxxooxxooxoxoxoxoxooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxoxoxoxoxoxoxoxoxooxxoxoxxooxoxoxoxoxoxoxxooxoxox  oxoxoxoox
+22 --> 111	xoxooxxooxxoxxooxxooxo  xoxoxooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxoxoxoxoxoxoxoxoxooxxoxoxxooxoxoxoxoxoxoxxooxoxoxxooxoxoxoox
+75 --> 22	xoxooxxooxxoxxooxxooxooxxoxoxooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxoxoxoxoxoxox  oxooxxoxoxxooxoxoxoxoxoxoxxooxoxoxxooxoxoxoox
+64 --> 75	xoxooxxooxxoxxooxxooxooxxoxoxooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxo  xoxoxoxoxxooxooxxoxoxxooxoxoxoxoxoxoxxooxoxoxxooxoxoxoox
+27 --> 64	xoxooxxooxxoxxooxxooxooxxox  ooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxooxxoxoxoxoxxooxooxxoxoxxooxoxoxoxoxoxoxxooxoxoxxooxoxoxoox
+84 --> 27	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxooxxoxoxoxoxxooxooxxo  xxooxoxoxoxoxoxoxxooxoxoxxooxoxoxoox
+71 --> 84	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxooxxoxox  oxxooxooxxooxxxooxoxoxoxoxoxoxxooxoxoxxooxoxoxoox
+96 --> 71	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxooxxoxoxxooxxooxooxxooxxxooxoxoxo  xoxoxxooxoxoxxooxoxoxoox
+107 --> 96	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxooxxoxoxxooxxooxooxxooxxxooxoxoxooxxoxoxxoox  oxxooxoxoxoox
+92 --> 107	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxooxxoxoxxooxxooxooxxooxxxooxo  xooxxoxoxxooxxooxxooxoxoxoox
+99 --> 92	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxoxoxoxoxooxxoxoxoxoxoxooxxoxoxxooxxooxooxxooxxxooxooxxooxx  oxxooxxooxxooxoxoxoox
+42 --> 99	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxo  xoxoxooxxoxoxoxoxoxooxxoxoxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxoxoxoox
+47 --> 42	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxooxxox  ooxxoxoxoxoxoxooxxoxoxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxoxoxoox
+58 --> 47	xoxooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxooxxoxxoooxxoxoxo  xoxooxxoxoxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxoxoxoox
+01 --> 58	x  ooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxooxxoxxoooxxoxoxooxxoxooxxoxoxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxoxoxoox
+116 --> 01	xxoooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxooxxoxxoooxxoxoxooxxoxooxxoxoxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxo  xoox
+67 --> 116	xxoooxxooxxoxxooxxooxooxxoxxoooxxoxxooxoxooxxoxxoooxxoxoxooxxoxooxx  oxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxooxxoox
+38 --> 67	xxoooxxooxxoxxooxxooxooxxoxxoooxxoxxoo  xooxxoxxoooxxoxoxooxxoxooxxxooxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxooxxoox
+55 --> 38	xxoooxxooxxoxxooxxooxooxxoxxoooxxoxxoooxxooxxoxxoooxxox  ooxxoxooxxxooxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxooxxoox
+20 --> 55	xxoooxxooxxoxxooxxoo  oxxoxxoooxxoxxoooxxooxxoxxoooxxoxxoooxxoxooxxxooxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxooxooxxoox
+112 --> 20	xxoooxxooxxoxxooxxoooooxxoxxoooxxoxxoooxxooxxoxxoooxxoxxoooxxoxooxxxooxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxx  xooxxoox
+23 --> 112	xxoooxxooxxoxxooxxooooo  oxxoooxxoxxoooxxooxxoxxoooxxoxxoooxxoxooxxxooxxooxxooxooxxooxxxooxooxxooxxxooxxooxxooxxxxxooxxoox
+91 --> 23	xxoooxxooxxoxxooxxooooooooxxoooxxoxxoooxxooxxoxxoooxxoxxoooxxoxooxxxooxxooxxooxooxxooxxxoox  xxooxxxooxxooxxooxxxxxooxxoox
+39 --> 91	xxoooxxooxxoxxooxxooooooooxxoooxxoxxooo  ooxxoxxoooxxoxxoooxxoxooxxxooxxooxxooxooxxooxxxooxxxxxooxxxooxxooxxooxxxxxooxxoox
+95 --> 39	xxoooxxooxxoxxooxxooooooooxxoooxxoxxoooooooxxoxxoooxxoxxoooxxoxooxxxooxxooxxooxooxxooxxxooxxxxx  xxxooxxooxxooxxxxxooxxoox
+54 --> 95	xxoooxxooxxoxxooxxooooooooxxoooxxoxxoooooooxxoxxoooxxo  oooxxoxooxxxooxxooxxooxooxxooxxxooxxxxxxxxxxooxxooxxooxxxxxooxxoox
+83 --> 54	xxoooxxooxxoxxooxxooooooooxxoooxxoxxoooooooxxoxxoooxxooooooxxoxooxxxooxxooxxooxooxx  xxxooxxxxxxxxxxooxxooxxooxxxxxooxxoox
+31 --> 83	xxoooxxooxxoxxooxxooooooooxxooo  oxxoooooooxxoxxoooxxooooooxxoxooxxxooxxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxxooxxxxxooxxoox
+63 --> 31	xxoooxxooxxoxxooxxooooooooxxooooooxxoooooooxxoxxoooxxooooooxxox  xxxooxxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxxooxxxxxooxxoox
+34 --> 63	xxoooxxooxxoxxooxxooooooooxxoooooo  oooooooxxoxxoooxxooooooxxoxxxxxxooxxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxxooxxxxxooxxoox
+68 --> 34	xxoooxxooxxoxxooxxooooooooxxoooooooooooooooxxoxxoooxxooooooxxoxxxxxx  xxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxxooxxxxxooxxoox
+59 --> 68	xxoooxxooxxoxxooxxooooooooxxoooooooooooooooxxoxxoooxxoooooo  oxxxxxxxxxxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxxooxxxxxooxxoox
+115 --> 59	xxoooxxooxxoxxooxxooooooooxxoooooooooooooooxxoxxoooxxoooooooooxxxxxxxxxxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxxooxxxxx  xxoox
+26 --> 115	xxoooxxooxxoxxooxxoooooooo  oooooooooooooooxxoxxoooxxoooooooooxxxxxxxxxxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxxooxxxxxxxxxoox
+108 --> 26	xxoooxxooxxoxxooxxoooooooooooooooooooooooooxxoxxoooxxoooooooooxxxxxxxxxxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxx  xxxxxxxxxoox
+12 --> 108	xxoooxxooxxo  ooxxoooooooooooooooooooooooooxxoxxoooxxoooooooooxxxxxxxxxxooxxooxooxxxxxxxooxxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+72 --> 12	xxoooxxooxxoooooxxoooooooooooooooooooooooooxxoxxoooxxoooooooooxxxxxxxxxx  xxooxooxxxxxxxooxxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+05 --> 72	xxooo  ooxxoooooxxoooooooooooooooooooooooooxxoxxoooxxoooooooooxxxxxxxxxxxxxxooxooxxxxxxxooxxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+79 --> 05	xxoooooooxxoooooxxoooooooooooooooooooooooooxxoxxoooxxoooooooooxxxxxxxxxxxxxxoox  xxxxxxxooxxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+51 --> 79	xxoooooooxxoooooxxoooooooooooooooooooooooooxxoxxooo  oooooooooxxxxxxxxxxxxxxooxxxxxxxxxxooxxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+88 --> 51	xxoooooooxxoooooxxoooooooooooooooooooooooooxxoxxooooooooooooooxxxxxxxxxxxxxxooxxxxxxxxxx  xxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+16 --> 88	xxoooooooxxooooo  oooooooooooooooooooooooooxxoxxooooooooooooooxxxxxxxxxxxxxxooxxxxxxxxxxxxxxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+76 --> 16	xxoooooooxxooooooooooooooooooooooooooooooooxxoxxooooooooooooooxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+09 --> 76	xxooooooo  ooooooooooooooooooooooooooooooooxxoxxooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxooxxxxxxxxxxxxxoox
+100 --> 09	xxoooooooooooooooooooooooooooooooooooooooooxxoxxooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxooxxxxxxxxxxxxxoox
+43 --> 100	xxooooooooooooooooooooooooooooooooooooooooo  oxxooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxxxxxxxxxxxxoox
+104 --> 43	xxooooooooooooooooooooooooooooooooooooooooooooxxooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxoox
+46 --> 104	xxoooooooooooooooooooooooooooooooooooooooooooo  ooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoox
+119 --> 46	xxooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x
+00 --> 119	  ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+======================

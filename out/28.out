@@ -1,0 +1,46 @@
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|         0 | 1378627  2837605 |       0        0    -nan |  0.000 % |
+======================================================================
+SAT
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|   1477164 | 1092130  2252068 | 1086508 369675273   340.2 | 13.085 % |
+======================================================================
+
+
+initial  	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxo
+35 --> 56	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxox  oxoxoxoxoxoxoxoxoxoox
+48 --> 35	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxxooxoxoxoxoxo  xoxoxoox
+19 --> 48	xoxoxoxoxoxoxoxoxox  oxoxoxoxoxoxoxxooxoxoxoxoxooxxoxoxoox
+44 --> 19	xoxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxoxxooxoxoxo  xooxxoxoxoox
+39 --> 44	xoxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxoxxoox  oxooxxooxxoxoxoox
+22 --> 39	xoxoxoxoxoxoxoxoxoxxoo  xoxoxoxoxoxxooxxooxooxxooxxoxoxoox
+01 --> 22	x  oxoxoxoxoxoxoxoxxoooxxoxoxoxoxoxxooxxooxooxxooxxoxoxoox
+26 --> 01	xxooxoxoxoxoxoxoxoxxoooxxo  xoxoxoxxooxxooxooxxooxxoxoxoox
+31 --> 26	xxooxoxoxoxoxoxoxoxxoooxxooxxox  oxxooxxooxooxxooxxoxoxoox
+04 --> 31	xxoo  xoxoxoxoxoxoxxoooxxooxxoxxooxxooxxooxooxxooxxoxoxoox
+11 --> 04	xxoooxxoxox  oxoxoxxoooxxooxxoxxooxxooxxooxooxxooxxoxoxoox
+52 --> 11	xxoooxxoxoxxooxoxoxxoooxxooxxoxxooxxooxxooxooxxooxxo  xoox
+15 --> 52	xxoooxxoxoxxoox  oxxoooxxooxxoxxooxxooxxooxooxxooxxooxxoox
+08 --> 15	xxoooxxo  xxooxxooxxoooxxooxxoxxooxxooxxooxooxxooxxooxxoox
+51 --> 08	xxoooxxoooxxooxxooxxoooxxooxxoxxooxxooxxooxooxxooxx  xxoox
+05 --> 51	xxooo  oooxxooxxooxxoooxxooxxoxxooxxooxxooxooxxooxxxxxxoox
+47 --> 05	xxooooooooxxooxxooxxoooxxooxxoxxooxxooxxooxooxx  xxxxxxoox
+23 --> 47	xxooooooooxxooxxooxxooo  ooxxoxxooxxooxxooxooxxxxxxxxxxoox
+40 --> 23	xxooooooooxxooxxooxxoooooooxxoxxooxxooxx  xooxxxxxxxxxxoox
+27 --> 40	xxooooooooxxooxxooxxooooooo  oxxooxxooxxxxxooxxxxxxxxxxoox
+36 --> 27	xxooooooooxxooxxooxxooooooooooxxooxx  xxxxxooxxxxxxxxxxoox
+10 --> 36	xxoooooooo  ooxxooxxooooooooooxxooxxxxxxxxxooxxxxxxxxxxoox
+43 --> 10	xxooooooooooooxxooxxooooooooooxxooxxxxxxxxx  xxxxxxxxxxoox
+18 --> 43	xxooooooooooooxxoo  ooooooooooxxooxxxxxxxxxxxxxxxxxxxxxoox
+32 --> 18	xxooooooooooooxxooooooooooooooxx  xxxxxxxxxxxxxxxxxxxxxoox
+14 --> 32	xxoooooooooooo  ooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxoox
+55 --> 14	xxooooooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxx  x
+00 --> 55	  ooooooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+======================

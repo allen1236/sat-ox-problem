@@ -1,0 +1,48 @@
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|         0 | 1795723  3682628 |       0        0    -nan |  0.000 % |
+======================================================================
+SAT
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|      1087 | 1745356  3548600 |    1075    20478    19.0 | 22.347 % |
+======================================================================
+
+
+           	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxo
+ 33 -->  60	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxox  oxoxoxoxoxoxoxoxoxoxoxoxoox
+ 48 -->  33	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxo  xoxoxoxoxoox
+ 13 -->  48	xoxoxoxoxoxox  oxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxooxxoxoxoxoxoox
+ 52 -->  13	xoxoxoxoxoxoxxooxoxoxoxoxoxoxoxoxxooxoxoxoxoxoxooxxo  xoxoxoox
+ 25 -->  52	xoxoxoxoxoxoxxooxoxoxoxox  oxoxoxxooxoxoxoxoxoxooxxooxxoxoxoox
+ 56 -->  25	xoxoxoxoxoxoxxooxoxoxoxoxxooxoxoxxooxoxoxoxoxoxooxxooxxo  xoox
+ 29 -->  56	xoxoxoxoxoxoxxooxoxoxoxoxxoox  oxxooxoxoxoxoxoxooxxooxxooxxoox
+  4 -->  29	xoxo  xoxoxoxxooxoxoxoxoxxooxxooxxooxoxoxoxoxoxooxxooxxooxxoox
+ 21 -->   4	xoxooxxoxoxoxxooxoxox  oxxooxxooxxooxoxoxoxoxoxooxxooxxooxxoox
+  8 -->  21	xoxooxxo  xoxxooxoxoxxooxxooxxooxxooxoxoxoxoxoxooxxooxxooxxoox
+ 17 -->   8	xoxooxxooxxoxxoox  oxxooxxooxxooxxooxoxoxoxoxoxooxxooxxooxxoox
+ 38 -->  17	xoxooxxooxxoxxooxxooxxooxxooxxooxxooxo  xoxoxoxooxxooxxooxxoox
+  1 -->  38	x  ooxxooxxoxxooxxooxxooxxooxxooxxooxooxxoxoxoxooxxooxxooxxoox
+ 42 -->   1	xxoooxxooxxoxxooxxooxxooxxooxxooxxooxooxxo  xoxooxxooxxooxxoox
+ 45 -->  42	xxoooxxooxxoxxooxxooxxooxxooxxooxxooxooxxooxx  ooxxooxxooxxoox
+ 12 -->  45	xxoooxxooxxo  ooxxooxxooxxooxxooxxooxooxxooxxxxooxxooxxooxxoox
+ 34 -->  12	xxoooxxooxxoooooxxooxxooxxooxxooxx  xooxxooxxxxooxxooxxooxxoox
+ 20 -->  34	xxoooxxooxxoooooxxoo  ooxxooxxooxxxxxooxxooxxxxooxxooxxooxxoox
+ 51 -->  20	xxoooxxooxxoooooxxooooooxxooxxooxxxxxooxxooxxxxooxx  xxooxxoox
+ 24 -->  51	xxoooxxooxxoooooxxoooooo  ooxxooxxxxxooxxooxxxxooxxxxxxooxxoox
+ 55 -->  24	xxoooxxooxxoooooxxooooooooooxxooxxxxxooxxooxxxxooxxxxxx  xxoox
+ 16 -->  55	xxoooxxooxxooooo  ooooooooooxxooxxxxxooxxooxxxxooxxxxxxxxxxoox
+ 41 -->  16	xxoooxxooxxoooooooooooooooooxxooxxxxxooxx  xxxxooxxxxxxxxxxoox
+  9 -->  41	xxoooxxoo  oooooooooooooooooxxooxxxxxooxxxxxxxxooxxxxxxxxxxoox
+ 37 -->   9	xxoooxxoooooooooooooooooooooxxooxxxxx  xxxxxxxxooxxxxxxxxxxoox
+ 28 -->  37	xxoooxxooooooooooooooooooooo  ooxxxxxxxxxxxxxxxooxxxxxxxxxxoox
+ 47 -->  28	xxoooxxoooooooooooooooooooooooooxxxxxxxxxxxxxxx  xxxxxxxxxxoox
+  5 -->  47	xxooo  oooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxoox
+ 59 -->   5	xxooooooooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxx  x
+  0 -->  59	  ooooooooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+======================

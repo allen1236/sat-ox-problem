@@ -1,0 +1,36 @@
+
+xoxo xoxo xoxo ... oxox oxox o
+x  o xoxo xoxo ... oxox oxox oox
+xxoo xoxo xoxo ... oxox o  x oox
+xxoo x  o xoxo ... oxox ooxx oox
+xxoo xxoo xoxo ... o  x ooxx oox
+xxoo xxoo x  o ... ooxx ooxx oox
+xxoo xxoo xxoo ... ooxx ooxx oox
+
+x  oxo|x
+x  oxox|ox
+x  oxoxo|xox
+x  oxoxox|oxox
+
+x  oxo|x
+xxoo  |x
+
+x  oxox|ox
+xxooxo | x
+xxo  oo|xx
+
+x  oxoxo|xox
+xxoo  xo|xox
+xxoooxxo|x 
+xxooo  o|xxx
+
+x  oxoxox|oxox
+xxooxoxo | xox
+xxoox  oo|xxox
+xxooxxooo|x  x
+xxoo  ooo|xxxx
+
+xxoo  |x
+xxo  oo|xx
+xxooo  o|xxx
+xxoo  ooo|xxxx

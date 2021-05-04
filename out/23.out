@@ -1,0 +1,41 @@
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|         0 |  651412  1355960 |       0        0    -nan |  0.000 % |
+======================================================================
+SAT
+==============================[MINISAT]===============================
+| Conflicts |     ORIGINAL     |          LEARNT          | Progress |
+|           | Clauses Literals | Clauses Literals  Lit/Cl |          |
+======================================================================
+|    619216 |  483152  1007791 |  188935 20178244   106.8 | 12.755 % |
+======================================================================
+
+
+initial  	xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxo
+09 --> 46	xoxoxoxox  oxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+16 --> 09	xoxoxoxoxxooxoxo  xoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+01 --> 16	x  oxoxoxxooxoxooxxoxoxoxoxoxoxoxoxoxoxoxoxoxoox
+24 --> 01	xxooxoxoxxooxoxooxxoxoxo  xoxoxoxoxoxoxoxoxoxoox
+37 --> 24	xxooxoxoxxooxoxooxxoxoxooxxoxoxoxoxox  oxoxoxoox
+32 --> 37	xxooxoxoxxooxoxooxxoxoxooxxoxoxo  xoxxooxoxoxoox
+13 --> 32	xxooxoxoxxoox  ooxxoxoxooxxoxoxooxxoxxooxoxoxoox
+28 --> 13	xxooxoxoxxooxxoooxxoxoxooxxo  xooxxoxxooxoxoxoox
+41 --> 28	xxooxoxoxxooxxoooxxoxoxooxxooxxooxxoxxoox  oxoox
+20 --> 41	xxooxoxoxxooxxoooxxo  xooxxooxxooxxoxxooxxooxoox
+05 --> 20	xxoox  oxxooxxoooxxooxxooxxooxxooxxoxxooxxooxoox
+34 --> 05	xxooxxooxxooxxoooxxooxxooxxooxxoox  xxooxxooxoox
+12 --> 34	xxooxxooxxoo  oooxxooxxooxxooxxooxxxxxooxxooxoox
+42 --> 12	xxooxxooxxoooooooxxooxxooxxooxxooxxxxxooxx  xoox
+04 --> 42	xxoo  ooxxoooooooxxooxxooxxooxxooxxxxxooxxxxxoox
+38 --> 04	xxooooooxxoooooooxxooxxooxxooxxooxxxxx  xxxxxoox
+08 --> 38	xxoooooo  oooooooxxooxxooxxooxxooxxxxxxxxxxxxoox
+27 --> 08	xxoooooooooooooooxxooxxooxx  xxooxxxxxxxxxxxxoox
+17 --> 27	xxooooooooooooooo  ooxxooxxxxxxooxxxxxxxxxxxxoox
+31 --> 17	xxoooooooooooooooooooxxooxxxxxx  xxxxxxxxxxxxoox
+21 --> 31	xxooooooooooooooooooo  ooxxxxxxxxxxxxxxxxxxxxoox
+45 --> 21	xxoooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxx  x
+00 --> 45	  oooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxx
+
+======================
